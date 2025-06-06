@@ -4,6 +4,8 @@ If you have issues to set this setting to ST2, make sure that the 4ekate is in t
 
 If console do not start or have issues with sleep mode after applying 4ekate settings, try installing 4ekate / 4IFIX from AIO or replace payloads with a new one to solve it.
 
+Its recommended to setup 4ekate after fully testing the current configuration cause it breaks usually after console crash. 
+
 Directories of payload files:
 /payload.bin
 /atmosphere/reboot_payload.bin

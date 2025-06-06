@@ -1,1 +1,3 @@
-This menu allows you to setting for EMC
+This menu allows you to setup EMC clock speed, power supply and timings.
+
+Setting up the EMC can increase perfomance per watt

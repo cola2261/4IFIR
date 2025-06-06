@@ -8,3 +8,5 @@ The sliders follow 2 main rules:
 - The max fan speed cannot be higher that the max speed of the next range.
 
 Adjustments for both of those rules happen in real-time.
+
+Sometimes due to atmosphere bug Fan speed can desync which mode the Switch is in. On Docked or Handheld

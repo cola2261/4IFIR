@@ -1,3 +1,5 @@
 This menu allows you to set undervolting mode for frequencies from 16XX MHz and up.
 
-The higher the value, the more agressive undervolting is appied to the CPU.
+The higher the value, the more agressive undervolting is applied to the CPU.
+
+This can also increase upperbound available CPU frequencies
